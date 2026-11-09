@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aicontractreviewsoftware.com/sitemap.xml
